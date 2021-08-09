@@ -12,6 +12,7 @@
         <module>chatCommon</module>
         <module>thread-demos</module>
         <module>lock-demos</module>
+        <module>Rex</module>
     </modules>
     <packaging>pom</packaging>
     <!-- 依赖版本集中管理 -->
